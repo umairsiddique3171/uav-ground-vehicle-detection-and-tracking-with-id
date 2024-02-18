@@ -1,0 +1,6 @@
+ultralytics==8.1.15
+opencv-python==4.9.0.80
+numpy==1.26.4
+scikit-image==0.22.0
+filterpy==1.4.5
+

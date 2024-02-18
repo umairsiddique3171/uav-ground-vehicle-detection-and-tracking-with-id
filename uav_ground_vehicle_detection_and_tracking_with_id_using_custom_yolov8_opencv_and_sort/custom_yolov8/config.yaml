@@ -1,0 +1,7 @@
+path: C:\Users\US593\Work\Datasets\Aerial_Cars_Object_Detection\data
+train: C:\Users\US593\Work\Datasets\Aerial_Cars_Object_Detection\data\images\train
+val: C:\Users\US593\Work\Datasets\Aerial_Cars_Object_Detection\data\images\val
+
+names: 
+  0: car 
+  1: bike
