@@ -11,7 +11,7 @@ from sort.sort import *
 mot_tracker = Sort()
 
 # load model
-model = YOLO(r"C:\Users\US593\OneDrive\Desktop\uav_ground_vehicle_detection_and_tracking_with_id_using_custom_yolov8_opencv_and_sort\custom_yolov8\runs\detect\train2\weights\last.pt")
+model = YOLO("last.pt")
 
 # load frames
 cap = cv2.VideoCapture('sample.mp4')
