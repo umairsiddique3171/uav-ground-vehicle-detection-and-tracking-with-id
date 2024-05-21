@@ -1,5 +1,8 @@
 """
-This script was used to collect data through a Raspberry Pi camera on a fixed-wing UAV during flight. Although model performance was trained beforehand on data grabbed from kaggle and other resources. This additional data collection was intended to enhance the model's performance by capturing aerial imagery that reflects the data distribution the model would encounter. This process was essential for optimizing the model's accuracy and efficiency.
+This script was used to collect data through a Raspberry Pi camera on a fixed-wing UAV during flight. 
+Although model was trained on data grabbed from kaggle and other resources. 
+This additional data collection was intended to enhance the model's performance by capturing aerial imagery that reflects the data distribution the model would encounter. 
+This process was essential for optimizing the model's accuracy and efficiency.
 """
 
 import cv2
