@@ -7,7 +7,7 @@ if not os.path.exists(data_dir):
     os.makedirs(data_dir)
 
 print("Waiting for 1 minute before starting the capture...")
-time.sleep(1)
+time.sleep(60)
 print("Starting capture...")
 
 frame_size = 640
